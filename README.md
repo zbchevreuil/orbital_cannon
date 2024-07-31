@@ -1,2 +1,3 @@
 # orbital_cannon
-Scipt d'explosion ig
+Tape /setcannoncoords pour définir les coordonnées.
+Tape /fireexplosion [type] pour tirer une explosion.
